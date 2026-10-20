@@ -6,7 +6,7 @@ export default function RootLayout({children}: {children: ReactNode}){
     return (
         <html>
             <head>
-                random ass app
+                <title>Ugo.com</title>
             </head>
             <body>
                 <p>A map app</p>
